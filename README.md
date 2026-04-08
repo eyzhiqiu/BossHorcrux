@@ -17,9 +17,9 @@
 
 ## 目录说明
 
-- Skill 定义文件：[`skills/page-centric-doc-book/SKILL.md`](/page-centric-doc-book/SKILL.md)
-- Python 实现包：[`skills/page_centric_doc_book`](/page_centric_doc_book)
-- 发布脚本：[`release/page-centric-doc-book`](/page-centric-doc-book)
+- Skill 定义文件：[`page-centric-doc-book/SKILL.md`](/page-centric-doc-book/SKILL.md)
+- Python 实现包：[`page_centric_doc_book`](/page_centric_doc_book)
+- 发布脚本：[`page-centric-doc-book`](/page-centric-doc-book)
 
 注意：
 
