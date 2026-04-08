@@ -1,0 +1,12 @@
+{
+  "name": "page-centric-doc-book",
+  "version": "0.1.8",
+  "description": "Generate a page-centric technical documentation book for one Go backend and one Vue2 frontend.",
+  "entry_skill_dir": "page-centric-doc-book",
+  "python_package_dir": "page_centric_doc_book",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ]
+}

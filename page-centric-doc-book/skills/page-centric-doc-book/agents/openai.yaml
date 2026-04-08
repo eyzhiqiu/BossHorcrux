@@ -1,0 +1,4 @@
+interface:
+  display_name: "Page-Centric Doc Book"
+  short_description: "Generate page-centric docs from one backend and one frontend"
+  default_prompt: "Use $page-centric-doc-book to generate a page-centric documentation book from one backend repo and one frontend repo."
